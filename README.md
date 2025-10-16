@@ -8,15 +8,15 @@ Through this project, I explored how data visualization and DAX calculations can
 
 ## 🎯 Objectives
 
-Analyze **sales and profit trends** across different regions and states.
+- Analyze **sales and profit trends** across different regions and states.
 
-Identify **top-performing product categories and retailers**.
+- Identify **top-performing product categories and retailers**.
 
-Examine **sales distribution by gender and sales channel**.
+- Examine **sales distribution by gender and sales channel**.
 
-Evaluate **profit margins and overall business performance**.
+- Evaluate **profit margins and overall business performance**.
 
-Visualize **year-to-date (YTD) sales and profit trends** to monitor growth.
+- Visualize **year-to-date (YTD) sales and profit trends** to monitor growth.
 
 ## 🛠 Tools & Technologies
 
