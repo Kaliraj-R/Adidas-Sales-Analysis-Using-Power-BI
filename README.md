@@ -82,7 +82,7 @@ Visualize **year-to-date (YTD) sales and profit trends** to monitor growth.
 
 ## 📌 Author
 
-Kaliraj R
-MBA (Finance & Business Analytics) | Data Analyst
-📧 kalirajkarthi3@gmail.com
+**Kaliraj R**  
+Data Analyst  
+📧 kalirajkarthi3@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/kaliraj-r-3s)
